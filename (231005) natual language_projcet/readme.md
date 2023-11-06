@@ -21,7 +21,7 @@
 
 ## ⚙️ 개발 환경
 - Python (Version 3.9.0 / Window)
-- <strong>Framework: </strong> Seaborn, Matplotlib, Pandas, 
+- <strong>Framework: </strong> Pandas, Sklearn, Tensorflow, WordCloud, numpy, Okt, matplotlib
 - <strong>IDE: </strong> Visual Studio Code
 
 ----------------------------------------------------------
