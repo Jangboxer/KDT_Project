@@ -31,11 +31,14 @@
 ----------------------------------------------------------
 ## 📌 프레젠테이션
 * 문해력 실태
-![Alt text](../read_img/2week/now.png)
+![Alt text](../read_img/9week/9-1.png)
 
 * 저하 요인
-![Alt text](../read_img/2week/why.png)
+![Alt text](../read_img/9week/9-2.png)
 
 * 해결 방안<br>
 런데이와 같은 bookday 어플로 책 읽어주는 힘 기르기<br>
-![Alt text](../read_img/2week/result.png)
+![Alt text](../read_img/9week/9-3.jpg)
+
+* 저하 요인
+![Alt text](../read_img/9week/9-4.png)
