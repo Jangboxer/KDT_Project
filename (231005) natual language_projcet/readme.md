@@ -38,7 +38,7 @@
 ![Alt text](../read_img/9week/9-2.png)
 
 * 제품별  핵심 키워드 제공<br>
-사과 제품 리<br>
+사과 제품 리뷰<br>
 ![Alt text](../read_img/9week/9-3.jpg)
 
 * 중립 리뷰 평점 예측
