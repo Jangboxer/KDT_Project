@@ -28,26 +28,22 @@
 - **메인페이지**
 ![Alt text](../read_img/4week/4-1.png)
 ![Alt text](../read_img/4week/4-2.png)
+
+<br></br>
+
+- **서브페이지**
 ![Alt text](../read_img/4week/4-3.png)
 ![Alt text](../read_img/4week/4-4.png)
 ![Alt text](../read_img/4week/4-5.png)
-![Alt text](../read_img/4week/4-6.png)
-
-<br></br>
-
-- **서브페이지**
-![Alt text](../read_img/03_readme_img/image-2.png)
-![Alt text](../read_img/03_readme_img/image-3.png)
-![Alt text](../read_img/03_readme_img/image-4.png)
 ----------------------------------------------------------
 ## 📌 주요 내용
 - **메인페이지**
-![Alt text](../read_img/03_readme_img/image-5.png)
-![Alt text](../read_img/03_readme_img/main1.png)
+![Alt text](../read_img/4week/4-6.png)
+![Alt text](../read_img/4week/4-7.png)
 <br></br>
 
 - **서브페이지**
-![Alt text](../read_img/03_readme_img/sub1.png)
-![Alt text](../read_img/03_readme_img/sub2.png)
-![Alt text](../read_img/03_readme_img/sub3.png)
+![Alt text](../read_img/4week/4-8.png)
+![Alt text](../read_img/4week/4-9.png)
+![Alt text](../read_img/4week/4-10.png)
 
