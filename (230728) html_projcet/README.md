@@ -26,8 +26,13 @@
 ----------------------------------------------------------
 ## 📍 목업
 - **메인페이지**
-![Alt text](../read_img/03_readme_img/image.png)
-![Alt text](../read_img/03_readme_img/image-1.png)
+![Alt text](../read_img/4week/4-1.png)
+![Alt text](../read_img/4week/4-2.png)
+![Alt text](../read_img/4week/4-3.png)
+![Alt text](../read_img/4week/4-4.png)
+![Alt text](../read_img/4week/4-5.png)
+![Alt text](../read_img/4week/4-6.png)
+
 <br></br>
 
 - **서브페이지**
