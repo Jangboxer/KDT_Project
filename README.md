@@ -13,4 +13,4 @@
 | 08_Style_classfication | 👕 패션 스타일 분류 서비스 |
 | 09_Music_genre_classification | 🎹 음악 장르 분류 서비스 |
 | 10_Comment_Generator | 💄 딥러닝을 활용한 뷰티 리뷰 자동 생성기 |
-| 11_Workplace_Harassment_Detection | 💢 직장 내 괴롭힘 대화 탐지 서비스 |
+| 11_Workplace_Harassment_Detection | 🏋 스쿼트 자세교정 및 음성인식 설명 |
